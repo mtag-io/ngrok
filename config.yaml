@@ -1,0 +1,4 @@
+# NGROK - lib
+command: "ngrok"
+protocol: "http"
+scriptName: "kill-ngrok.sh"

@@ -1,4 +1,4 @@
-module ngrok
+module github.com/mtag-io/ngrok
 
 go 1.19
 
